@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Buffy-C
 - 👀 I’m interested in business strategy and solutions.
-- 🌱 I’m currently learning Web development.
+- 🌱 I’m currently learning SQL.
 - 💞️ I’m looking to learn SQL, Python & Javascript.
 
 <!---
